@@ -1,0 +1,2647 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 866
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+0.157 g
+210.9977952755905619 615.1183464566928478 Td
+(HowiGrew.com) Tj
+ET
+BT
+/F2 20 Tf
+23. TL
+0.157 g
+145.2377952755905994 558.42543307086612 Td
+(Administrator Operation Manual) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0.392 g
+147.2077952755905983 501.7325196850393354 Td
+(Comprehensive Guide for System Administration) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.392 g
+239.6777952755905687 331.6537795275589815 Td
+(Generated: 8/10/2025) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+219.6877952755905596 133.2285826771652637 Td
+(Confidential - For Internal Use Only) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 1 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3219
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.392 g
+56.6929133858267775 756.8506299212598378 Td
+(Table of Contents) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 700.15771653543311 Td
+(1. Table of Contents) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 700.15771653543311 Td
+(3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 677.480551181102328 Td
+(2. System Overview) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 677.480551181102328 Td
+(4) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 654.8033858267716596 Td
+(3. Admin Dashboard Access) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 654.8033858267716596 Td
+(5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 632.1262204724408775 Td
+(4. User Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 632.1262204724408775 Td
+(6) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 609.4490551181102092 Td
+(6. Course Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 609.4490551181102092 Td
+(7) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 586.7718897637794271 Td
+(7. Payment & Subscription Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 586.7718897637794271 Td
+(8) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 564.0947244094487587 Td
+(9. Community Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 564.0947244094487587 Td
+(9) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 541.4175590551180903 Td
+(11. Analytics & Monitoring) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 541.4175590551180903 Td
+(10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 518.7403937007873083 Td
+(13. System Commands) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 518.7403937007873083 Td
+(11) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 496.0632283464566399 Td
+(30. Security Features) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 496.0632283464566399 Td
+(12) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 473.3860629921259147 Td
+(31. Troubleshooting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 473.3860629921259147 Td
+(13) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 450.7088976377952463 Td
+(42. API Endpoints Reference) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 450.7088976377952463 Td
+(14) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 428.0317322834645211 Td
+(43. Environment Variables) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 428.0317322834645211 Td
+(16) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 405.3545669291337958 Td
+(53. Maintenance Procedures) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 405.3545669291337958 Td
+(17) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 382.6774015748030706 Td
+(54. Support & Escalation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+510.2362204724410049 382.6774015748030706 Td
+(18) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 2 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4100
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 756.8506299212598378 Td
+(Table of Contents) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 714.3309448818897636 Td
+(1. [System Overview]\(#system-overview\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 691.6537795275589815 Td
+(2. [Admin Dashboard Access]\(#admin-dashboard-access\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 668.9766141732283131 Td
+(3. [User Management]\(#user-management\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 646.2994488188976447 Td
+(4. [Course Management]\(#course-management\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 623.6222834645668627 Td
+(5. [Payment & Subscription Management]\(#payment--subscription-management\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 600.9451181102361943 Td
+(6. [Community Management]\(#community-management\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 578.2679527559055259 Td
+(7. [Analytics & Monitoring]\(#analytics--monitoring\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 555.5907874015747439 Td
+(8. [System Commands]\(#system-commands\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 532.9136220472440755 Td
+(9. [Security Features]\(#security-features\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 510.2364566929133503 Td
+(10. [Troubleshooting]\(#troubleshooting\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 487.559291338582625 Td
+(11. [API Endpoints Reference]\(#api-endpoints-reference\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 464.8821259842518998 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 413.8585039370078107 Td
+(System Overview) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 371.3388188976377364 Td
+(HowiGrew.com is a comprehensive Learning Management System \(LMS\) designed for global real estate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 354.3309448818897067 Td
+(education, specifically focused on wholesaling methodologies. The platform provides:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 331.6537795275589815 Td
+(- Multi-language support: 6 languages including Mandarin Chinese) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 308.9766141732283131 Td
+(- Real-time analytics: Platform statistics and user engagement tracking) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 286.2994488188975311 Td
+(- Advanced user management: Role-based access control \(Student, Instructor, Admin, Mentor\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 263.6222834645668627 Td
+(- Subscription management: Multiple membership tiers with Stripe integration) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 240.9451181102361943 Td
+(- Community features: Forums, webinars, mentorship system) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 218.2679527559054122 Td
+(- Course delivery: Video lessons, progress tracking, certificates) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 195.5907874015747439 Td
+(Technology Stack) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 167.2443307086613231 Td
+(- Frontend: React 18 with TypeScript, Wouter routing, TanStack Query) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 144.5671653543306547 Td
+(- Backend: Node.js with Express.js, TypeScript) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 121.8899999999998727 Td
+(- Database: PostgreSQL with Drizzle ORM \(hosted on Neon Database\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 99.2128346456692043 Td
+(- Payments: Stripe integration for subscriptions and payments) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 76.5356692913385359 Td
+(- Authentication: JWT-based with secure session management) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 3 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3236
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(- Monitoring: Comprehensive security and performance monitoring) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 734.1734645669291695 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 683.1498425196850803 Td
+(Admin Dashboard Access) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 640.6301574803148924 Td
+(Login Requirements) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 612.2837007874015853 Td
+(- Admin Role: Must have role: "admin" in the users table) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 589.6065354330708033 Td
+(- URL: /admin-dashboard) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 566.9293700787401349 Td
+(- Authentication: JWT token required in localStorage as auth_token) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 544.2522047244094665 Td
+(Dashboard Sections) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 515.9057480314959321 Td
+(1. Overview: Real-time statistics and key metrics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 493.2285826771653205 Td
+(2. User Management: Search, create, edit, and manage users) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 470.5514173228345953 Td
+(3. Analytics: Detailed platform analytics and performance metrics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 447.8742519685038701 Td
+(4. Security Audit: Security monitoring and threat assessment) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 425.1970866141731449 Td
+(5. Course Management: Create and manage courses \(if instructor role\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 402.5199212598424765 Td
+(6. System Metrics: Server performance and resource monitoring) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 379.8427559055117513 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 328.8191338582676053 Td
+(User Management) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 286.2994488188975311 Td
+(User Search & Filtering) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 257.952992125984224 Td
+(Access the database search functionality to find users:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 235.2758267716534419 Td
+(Search Criteria:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 212.5986614173227736 Td
+(- Text Search: Name, email, or ID) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 189.9214960629919915 Td
+(- Role Filter: All, Student, Instructor, Admin, Mentor) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 167.2443307086613231 Td
+(- Membership Filter: All, Basic, Premium, Lifetime) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 144.5671653543306547 Td
+(- Status Filter: Active/Inactive users) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 121.8899999999998727 Td
+(Commands:) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 4 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3296
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 756.8506299212598378 Td
+(Course Management) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 714.3309448818897636 Td
+(Course Structure) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 685.9844881889763428 Td
+(Hierarchy:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 663.3073228346456744 Td
+(1. Courses: Top-level learning containers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 640.6301574803148924 Td
+(2. Sections: Grouped lessons within courses) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 617.952992125984224 Td
+(3. Lessons: Individual learning units with video/text content) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 595.2758267716535556 Td
+(4. Progress Tracking: Per-user completion tracking) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 572.5986614173227736 Td
+(Course Creation & Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 544.2522047244094665 Td
+(Course Properties:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 521.5750393700786844 Td
+(- Title, description, and thumbnails) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 498.8978740157479592 Td
+(- Instructor assignment) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 476.2207086614172908 Td
+(- Difficulty level \(Beginner, Intermediate, Advanced\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 453.5435433070865656 Td
+(- Pricing and currency) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 430.8663779527558404 Td
+(- Language and subtitle support) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 408.1892125984251152 Td
+(- Publishing status \(Draft, Published, Archived\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 385.5120472440944468 Td
+(Access Control:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 362.8348818897637216 Td
+(- Public/Private visibility) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 340.1577165354329964 Td
+(- Membership tier requirements) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 317.480551181102328 Td
+(- Individual lesson access \(Free/Premium\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 294.8033858267715459 Td
+(Course Analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 266.4569291338582389 Td
+(Track course performance:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 243.7797637795274568 Td
+(- Enrollment numbers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 221.1025984251967884 Td
+(- Completion rates) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 198.4254330708660063 Td
+(- Average ratings) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 175.748267716535338 Td
+(- Revenue generated) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 153.0711023622046696 Td
+(- User engagement metrics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 130.3939370078738875 Td
+(---) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 5 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3306
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 756.8506299212598378 Td
+(Payment & Subscription Management) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 714.3309448818897636 Td
+(Stripe Integration) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 685.9844881889763428 Td
+(Configuration Required:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 663.3073228346456744 Td
+(- STRIPE_SECRET_KEY environment variable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 640.6301574803148924 Td
+(- Webhook endpoints configured in Stripe dashboard) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 617.952992125984224 Td
+(Membership Tiers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 589.6065354330708033 Td
+(1. Basic: Free access to limited content) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 566.9293700787401349 Td
+(2. Premium: Monthly/annual subscription with full access) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 544.2522047244094665 Td
+(3. Lifetime: One-time payment for permanent access) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 521.5750393700786844 Td
+(Promotional Codes) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 493.2285826771653205 Td
+(Code Types:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 470.5514173228345953 Td
+(- Course Access: Free access to specific courses) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 447.8742519685038701 Td
+(- Membership Upgrade: Free membership tier upgrades) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 425.1970866141731449 Td
+(- Discount Codes: Percentage or fixed amount discounts) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 402.5199212598424765 Td
+(Management Commands:) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 351.4962992125983874 Td
+(Community Management) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 308.9766141732283131 Td
+(Forum System) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 280.6301574803148924 Td
+(Post Types:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 257.952992125984224 Td
+(- General discussions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 235.2758267716534419 Td
+(- Course-specific questions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 212.5986614173227736 Td
+(- Success stories) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 189.9214960629919915 Td
+(- Q&A sessions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 167.2443307086613231 Td
+(Moderation Features:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 144.5671653543306547 Td
+(- Post approval system) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 121.8899999999998727 Td
+(- User reporting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 99.2128346456692043 Td
+(- Content filtering) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 76.5356692913385359 Td
+(- Pinned posts) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 6 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 2751
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(Webinar Management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 728.5041732283464171 Td
+(Webinar Features:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 705.8270078740157487 Td
+(- Scheduled live sessions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 683.1498425196850803 Td
+(- Attendee registration limits) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 660.4726771653542983 Td
+(- Automatic reminder systems) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 637.7955118110235162 Td
+(- Recording availability) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 615.1183464566928478 Td
+(Commands:) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 564.0947244094487587 Td
+(Analytics & Monitoring) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 521.5750393700786844 Td
+(Platform Statistics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 493.2285826771653205 Td
+(Real-time Metrics:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 470.5514173228345953 Td
+(- Total registered users) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 447.8742519685038701 Td
+(- Active enrollments) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 425.1970866141731449 Td
+(- Course completion rates) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 402.5199212598424765 Td
+(- Revenue analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 379.8427559055117513 Td
+(- Global reach \(countries served\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 357.1655905511810261 Td
+(- Support availability status) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 334.4884251968503008 Td
+(API Access:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 311.8112598425195756 Td
+(GET /api/platform-stats) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 260.7876377952754865 Td
+(System Commands) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 218.2679527559054122 Td
+(Database Operations) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 189.9214960629919915 Td
+(Schema Management:) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 138.8978740157479024 Td
+(Security Features) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 96.3781889763778281 Td
+(Authentication & Authorization) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 7 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 3349
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(JWT Token System:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 734.1734645669291695 Td
+(- 24-hour token expiration) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 711.4962992125983874 Td
+(- Secure token storage) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 688.819133858267719 Td
+(- Role-based access control) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 666.1419685039369369 Td
+(- Session management) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 643.4648031496062686 Td
+(Rate Limiting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 615.1183464566928478 Td
+(Protection Levels:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 592.4411811023621794 Td
+(- Authentication endpoints: 5 attempts per 15 minutes) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 569.7640157480313974 Td
+(- Admin endpoints: Enhanced rate limiting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 547.086850393700729 Td
+(- Upload endpoints: File size and type restrictions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 524.4096850393700606 Td
+(- API endpoints: General rate limiting) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 501.7325196850393354 Td
+(Data Protection) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 473.3860629921259147 Td
+(Security Measures:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 450.7088976377952463 Td
+(- Password hashing with bcrypt \(12 rounds\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 428.0317322834645211 Td
+(- SQL injection prevention via parameterized queries) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 405.3545669291337958 Td
+(- XSS protection with content security policies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 382.6774015748030706 Td
+(- CORS configuration for secure cross-origin requests) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 360.0002362204724022 Td
+(Monitoring & Logging) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 331.6537795275589815 Td
+(Security Logging:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 308.9766141732283131 Td
+(- All admin actions logged) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 286.2994488188975311 Td
+(- Failed authentication attempts tracked) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 263.6222834645668627 Td
+(- Performance monitoring for anomalies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 240.9451181102361943 Td
+(- Memory usage monitoring with automatic cleanup) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 218.2679527559054122 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 167.2443307086613231 Td
+(Troubleshooting) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 124.7246456692912489 Td
+(Common Issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 96.3781889763778281 Td
+(#### High Memory Usage) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 8 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3834
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(Symptoms:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 734.1734645669291695 Td
+(- Server responses slowing down) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 711.4962992125983874 Td
+(- Memory usage above 400MB) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 688.819133858267719 Td
+(Resolution:) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 637.7955118110235162 Td
+(API Endpoints Reference) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 595.2758267716535556 Td
+(Authentication Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 566.9293700787401349 Td
+(POST /api/auth/register      # User registration) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 544.2522047244094665 Td
+(POST /api/auth/login         # User login) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 521.5750393700786844 Td
+(POST /api/auth/logout        # User logout) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 498.8978740157479592 Td
+(POST /api/auth/verify-email  # Email verification) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 476.2207086614172908 Td
+(POST /api/auth/forgot-password    # Password reset request) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 453.5435433070865656 Td
+(POST /api/auth/reset-password     # Password reset confirmation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 430.8663779527558404 Td
+(GET  /api/auth/me           # Get current user info) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 408.1892125984251152 Td
+(Admin Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 379.8427559055117513 Td
+(GET    /api/admin/users           # List all users) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 357.1655905511810261 Td
+(POST   /api/admin/users           # Create new user) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 334.4884251968503008 Td
+(PATCH  /api/admin/users/{id}      # Update user) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 311.8112598425195756 Td
+(DELETE /api/admin/users/{id}      # Delete user \(soft delete\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 289.1340944881889072 Td
+(GET    /api/admin/database        # Search database) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 266.4569291338582389 Td
+(GET    /api/admin/analytics       # Platform analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 243.7797637795274568 Td
+(GET    /api/admin/security-audit  # Security report) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 221.1025984251967884 Td
+(GET    /api/admin/system-metrics  # System performance) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 198.4254330708660063 Td
+(Course Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 170.0789763779526993 Td
+(GET    /api/courses              # List courses) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 147.4018110236219172 Td
+(GET    /api/courses/{id}         # Get course details) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 124.7246456692912489 Td
+(POST   /api/courses              # Create course \(instructor+\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 102.0474803149605805 Td
+(PATCH  /api/courses/{id}         # Update course \(instructor+\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 79.3703149606297984 Td
+(DELETE /api/courses/{id}         # Delete course \(admin\)) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 9 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 3849
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(GET    /api/courses/{id}/sections # Get course sections) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 734.1734645669291695 Td
+(GET    /api/courses/{id}/lessons  # Get course lessons) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 711.4962992125983874 Td
+(Student Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 683.1498425196850803 Td
+(GET    /api/student/enrollments           # User's enrollments) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 660.4726771653542983 Td
+(GET    /api/student/courses/{id}/content  # Course content) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 637.7955118110235162 Td
+(GET    /api/student/lessons/{id}/progress # Lesson progress) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 615.1183464566928478 Td
+(POST   /api/student/lessons/{id}/progress # Update progress) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 592.4411811023621794 Td
+(Community Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 564.0947244094487587 Td
+(GET    /api/community/posts         # Forum posts) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 541.4175590551180903 Td
+(POST   /api/community/posts         # Create post) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 518.7403937007873083 Td
+(GET    /api/webinars               # List webinars) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 496.0632283464566399 Td
+(POST   /api/webinars               # Create webinar \(admin\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 473.3860629921259147 Td
+(POST   /api/webinars/{id}/register # Register for webinar) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 450.7088976377952463 Td
+(Mentorship Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 422.3624409448818255 Td
+(GET    /api/mentors                    # List mentors) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 399.6852755905511003 Td
+(GET    /api/mentorship/sessions        # User's mentorship sessions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 377.0081102362204319 Td
+(POST   /api/mentorship/book           # Book mentorship session) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 354.3309448818897067 Td
+(POST   /api/mentorship/feedback       # Submit session feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 331.6537795275589815 Td
+(File Upload Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 303.3073228346455608 Td
+(POST   /api/upload/course-image       # Upload course images \(instructor+\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 280.6301574803148924 Td
+(GET    /api/files/{fileName}          # Serve uploaded files) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 257.952992125984224 Td
+(System Endpoints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 229.6065354330708033 Td
+(GET    /api/status            # API health check) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 206.9293700787401349 Td
+(GET    /api/platform-stats    # Public platform statistics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 184.2522047244093528 Td
+(GET    /api/metrics           # System metrics \(admin only\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 161.5750393700786844 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 110.5514173228345953 Td
+(Environment Variables) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 10 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 3229
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(Required Configuration) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 700.15771653543311 Td
+(Maintenance Procedures) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 657.6380314960629221 Td
+(Daily Tasks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 629.291574803149615 Td
+(1. Monitor system metrics via /api/admin/system-metrics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 606.614409448818833 Td
+(2. Review security audit via /api/admin/security-audit) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 583.9372440944881646 Td
+(3. Check error logs for any critical issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 561.2600787401574962 Td
+(4. Verify backup completion \(database backups\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 538.5829133858267141 Td
+(Weekly Tasks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 510.2364566929133503 Td
+(1. Review user analytics and growth metrics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 487.559291338582625 Td
+(2. Update course content as needed) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 464.8821259842518998 Td
+(3. Process mentor applications and verifications) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 442.2049606299212314 Td
+(4. Review and approve community posts if moderation enabled) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 419.5277952755905062 Td
+(Monthly Tasks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 391.1813385826770855 Td
+(1. Performance optimization review) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 368.5041732283464171 Td
+(2. Security patch updates for dependencies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 345.8270078740156919 Td
+(3. Database maintenance and optimization) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 323.1498425196849666 Td
+(4. Content strategy review based on analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 300.4726771653542983 Td
+(---) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.157 g
+56.6929133858267775 249.4490551181102092 Td
+(Support & Escalation) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 206.9293700787401349 Td
+(Issue Severity Levels) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 178.5829133858267141 Td
+(Critical \(Immediate Response Required\):) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 155.9057480314959321 Td
+(- Complete system outage) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 133.2285826771652637 Td
+(- Security breach detected) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 110.5514173228345953 Td
+(- Payment processing failures) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 87.8742519685038133 Td
+(- Data corruption issues) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 11 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 2431
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 756.8506299212598378 Td
+(High \(Within 4 hours\):) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 734.1734645669291695 Td
+(- Major feature unavailable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 711.4962992125983874 Td
+(- Performance degradation affecting all users) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 688.819133858267719 Td
+(- Authentication system issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 666.1419685039369369 Td
+(Medium \(Within 24 hours\):) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 643.4648031496062686 Td
+(- Minor feature issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 620.7876377952754865 Td
+(- Individual user problems) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 598.1104724409448181 Td
+(- Content upload problems) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 575.4333070866141497 Td
+(Low \(Within 72 hours\):) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 552.7561417322833677 Td
+(- Enhancement requests) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 530.0789763779526993 Td
+(- Documentation updates) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 507.4018110236219741 Td
+(- Cosmetic issues) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.235 g
+56.6929133858267775 484.7246456692913057 Td
+(Contact Information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 456.378188976377885 Td
+(- Technical Issues: admin@howigrew.com) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 433.7010236220471597 Td
+(- Security Concerns: security@howigrew.com) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 411.0238582677164914 Td
+(- Emergency Contact: [Emergency contact method]) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 388.3466929133857661 Td
+(---) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 365.6695275590550409 Td
+(This manual was generated on August 10, 2025. Please ensure you have the most current version before) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.235 g
+56.6929133858267775 348.6616535433070112 Td
+(performing administrative tasks.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+56.6929133858267775 19.8427559055116944 Td
+(Page 12 of 12) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.588 g
+340.157480314960651 19.8427559055116944 Td
+(© HowiGrew.com - Confidential Admin Manual) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R ]
+/Count 12
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+39 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+40 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 27 0 R
+/F2 28 0 R
+/F3 29 0 R
+/F4 30 0 R
+/F5 31 0 R
+/F6 32 0 R
+/F7 33 0 R
+/F8 34 0 R
+/F9 35 0 R
+/F10 36 0 R
+/F11 37 0 R
+/F12 38 0 R
+/F13 39 0 R
+/F14 40 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+41 0 obj
+<<
+/Producer (jsPDF 3.0.1)
+/CreationDate (D:20250810045318-00'00')
+>>
+endobj
+42 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000039774 00000 n 
+0000041671 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000001069 00000 n 
+0000001206 00000 n 
+0000004477 00000 n 
+0000004614 00000 n 
+0000008766 00000 n 
+0000008904 00000 n 
+0000012193 00000 n 
+0000012332 00000 n 
+0000015681 00000 n 
+0000015820 00000 n 
+0000019179 00000 n 
+0000019318 00000 n 
+0000022122 00000 n 
+0000022261 00000 n 
+0000025663 00000 n 
+0000025802 00000 n 
+0000029689 00000 n 
+0000029828 00000 n 
+0000033730 00000 n 
+0000033869 00000 n 
+0000037151 00000 n 
+0000037290 00000 n 
+0000039906 00000 n 
+0000040032 00000 n 
+0000040163 00000 n 
+0000040297 00000 n 
+0000040435 00000 n 
+0000040559 00000 n 
+0000040688 00000 n 
+0000040820 00000 n 
+0000040956 00000 n 
+0000041084 00000 n 
+0000041211 00000 n 
+0000041340 00000 n 
+0000041473 00000 n 
+0000041575 00000 n 
+0000041924 00000 n 
+0000042010 00000 n 
+trailer
+<<
+/Size 43
+/Root 42 0 R
+/Info 41 0 R
+/ID [ <A4BF29C4559E79022F7C0DDEA14971F0> <A4BF29C4559E79022F7C0DDEA14971F0> ]
+>>
+startxref
+42114
+%%EOF
